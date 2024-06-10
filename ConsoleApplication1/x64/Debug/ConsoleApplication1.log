@@ -1,0 +1,20 @@
+﻿  ConsoleApplication1.cpp
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(31,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(46,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(66,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(144,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(157,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(169,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(178,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(180,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(202,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(323,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(325,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(344,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(354,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(362,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(372,47): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(390,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(401,46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\ConsoleApplication1.cpp(407,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  ConsoleApplication1.vcxproj -> D:\Chnu\Summer\oplab2-ValentinaOb\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
